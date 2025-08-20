@@ -1,7 +1,7 @@
 ﻿# Denné počasie pre mestá
 
 ## Bratislava
-Aktualizované: 2025-08-20 14:49:43
+Aktualizované: 2025-08-20 14:51:45
 
 🌡️ Teplota: 28.66°C 
 (Pocitová: 28.44°C)
@@ -20,7 +20,7 @@ GPS: 48.1482, 17.1067
 ---
 
 ## Hriňová
-Aktualizované: 2025-08-20 14:49:43
+Aktualizované: 2025-08-20 14:51:45
 
 🌡️ Teplota: 26.21°C 
 (Pocitová: 26.21°C)
