@@ -1,39 +1,39 @@
 ﻿# Denné počasie pre mestá
 
 ## Bratislava
-Aktualizované: 2025-09-28 12:11:12
+Aktualizované: 2025-09-28 12:41:15
 
-🌡️ Teplota: 17.92°C 
-(Pocitová: 17.46°C)
-Min: 17.64°C / Max: 18.68°C
+🌡️ Teplota: 18.27°C 
+(Pocitová: 17.8°C)
+Min: 17.64°C / Max: 19.23°C
 
-Vietor: 3.6 m/s    (340°) 
+Vietor: 4.63 m/s    (340°) 
 nárazy:  m/s
 
-Vlhkosť: 65% | Tlak: 1020 hPa
+Vlhkosť: 63% | Tlak: 1019 hPa
 
 Slnko: Východ 06:46 / Západ 18:37
 
 GPS: 48.1482, 17.1067
 
-☁️ Stav: takmer jasno        🌡️ Teplota: 17.92°C
+☁️ Stav: takmer jasno        🌡️ Teplota: 18.27°C
 ---
 
 ## Hriňová
-Aktualizované: 2025-09-28 12:11:12
+Aktualizované: 2025-09-28 12:41:15
 
-🌡️ Teplota: 15.66°C 
-(Pocitová: 14.9°C)
-Min: 15.66°C / Max: 15.66°C
+🌡️ Teplota: 16.77°C 
+(Pocitová: 15.96°C)
+Min: 16.77°C / Max: 16.77°C
 
-Vietor: 1.57 m/s (152°)
-nárazy: 1.26 m/s
+Vietor: 2.16 m/s (155°)
+nárazy: 1.41 m/s
 
-Vlhkosť: 62% | Tlak: 1020 hPa
+Vlhkosť: 56% | Tlak: 1019 hPa
 
 Slnko: Východ 06:36 / Západ 18:28
 
 GPS: 48.5779, 19.5257
 
-☁️ Stav: zamračené        🌡️ Teplota: 15.66°C
+☁️ Stav: zamračené        🌡️ Teplota: 16.77°C
 ---
