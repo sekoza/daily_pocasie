@@ -1,11 +1,11 @@
 # 🌍 Denné počasie pre mestá
 
-_Posledná aktualizácia: 2026-02-22 21:50:18_
+_Posledná aktualizácia: 2026-02-22 22:27:15_
 
 ## 🏙️ Bratislava
 
-- 🌡️ Teplota: **2.9°C**
-- 💨 Vietor: **1.3 km/h**
+- 🌡️ Teplota: **3.5°C**
+- 💨 Vietor: **2.1 km/h**
 - 🌦️ Stav: **🌧️ Slabý dážď**
 
 ---
@@ -14,7 +14,7 @@ _Posledná aktualizácia: 2026-02-22 21:50:18_
 
 - 🌡️ Teplota: **2.8°C**
 - 💨 Vietor: **5.8 km/h**
-- 🌦️ Stav: **🌧️ Silné mrholenie**
+- 🌦️ Stav: **🌧️ Slabý dážď**
 
 ---
 
