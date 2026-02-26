@@ -1,20 +1,20 @@
 # 🌍 Denné počasie pre mestá
 
-_Posledná aktualizácia: 2026-02-26 21:03:04_
+_Posledná aktualizácia: 2026-02-26 21:54:59_
 
 ## 🏙️ Bratislava
 
-- 🌡️ Teplota: **4.2°C**
-- 💨 Vietor: **8.9 km/h**
+- 🌡️ Teplota: **3.7°C**
+- 💨 Vietor: **9.8 km/h**
 - 🌦️ Stav: **☀️ Jasno**
 
 ---
 
 ## 🏙️ Hriňová
 
-- 🌡️ Teplota: **0.2°C**
-- 💨 Vietor: **4.7 km/h**
-- 🌦️ Stav: **⛅ Čiastočne oblačno**
+- 🌡️ Teplota: **-0.1°C**
+- 💨 Vietor: **5.4 km/h**
+- 🌦️ Stav: **☀️ Jasno**
 
 ---
 
