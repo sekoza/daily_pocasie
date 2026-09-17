@@ -1,6 +1,6 @@
 #  Denné počasie pre mestá
 
-_Posledná aktualizácia: 2026-09-17 10:20:21_
+_Posledná aktualizácia: 2026-09-17 10:20:25_
 
 ##  Bratislava
 
